@@ -128,7 +128,7 @@ Check out these resources to learn more or get involved:
 - Check out the [Student Developer Pack](https://education.github.com/pack) for more resources and exclusive partner offers.
 - Explore more Experiences to help you make the most of your GitHub account.
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-
+- 📫 Reach out to me at **email**
 
 </details>
 
