@@ -7,7 +7,7 @@
 
 # Launchpad: Profile README
 
-_Say hello to your community._
+_Hello community._
 
 
 <!-- 
