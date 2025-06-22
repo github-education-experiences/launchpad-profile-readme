@@ -22,7 +22,7 @@ _Say hello to your community._
 <details id=0 open>
 <summary><h2>Welcome</h2></summary>
 
-Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
+Say ‘Hello world Binh’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: How to create a public repository for use as a profile README.
 - **What you'll build**: We'll make a profile README file.
