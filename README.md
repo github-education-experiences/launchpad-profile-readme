@@ -7,7 +7,7 @@
 
 # Launchpad: Profile README
 
-_Say hello to your community._
+Hi, I am Valentino Conte, nice to see you all.
 
 
 <!-- 
