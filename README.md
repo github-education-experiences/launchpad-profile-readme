@@ -71,7 +71,7 @@ GitHub will display your profile README on your profile page if all of the follo
 <details id=1>
 <summary><h2>Adding a profile README</h2></summary>
 
-1. Open an additional tab in GitHub and follow the instructions below.
+1. Open an additional tab in GitHub and follow the instructins below.
 
 2. In the upper-right corner of any page, click the ‘+’ and use the  drop-down menu, and select New repository.
 <img width="265" alt="Screen Shot 2023-03-13 at 3 27 56 PM" src="https://user-images.githubusercontent.com/107881423/224812150-895e1373-03c1-4208-83be-6f671eb41496.png">
