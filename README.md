@@ -1,101 +1,130 @@
 # Michał Trojaczek
 
-**Analiza techniczna, fonoskopia, inżynieria dowodów cyfrowych, procedura karna.  
-Łączę prawo, technologię i dokumentację techniczną w jedną całość.**
+**Prawo karne procesowe • fonoskopia • dowody cyfrowe • analiza danych**  
+GitHub traktuję jako laboratorium do uczenia się i uczenia innych.
 
 ---
 
-## O mnie
+## 👋 Kim jestem?
 
-Pracuję na styku prawa karnego procesowego, akustyki sądowej, analizy danych oraz techniki budowlanej.  
-Buduję narzędzia i dokumentację, które mają jedną cechę wspólną: muszą być **rzetelne**, odtwarzalne i odporne na fantazję instytucjonalną.
+Pracuję na styku:
 
-Moje repozytoria to zapis pracy nad:
+- postępowania karnego,
+- analizy nagrań (fonoskopia, diarizacja, transkrypcja),
+- inżynierii danych i dokumentowania dowodów cyfrowych,
+- technicznej analizy budynków (instalacje CO/CWU, audyty energetyczne).
 
-- cyfrową mapą dowodową w sprawach karnych,  
-- automatyzacją analizy nagrań (Whisper, diarization, fonoskopia),  
-- rekonstrukcją i oceną procesową (protokoły, e-protokoły, łańcuch dowodowy),  
-- technicznym audytem instalacji CWU/CO budynku Joliot-Curie 19A,  
-- narzędziami do precyzyjnego dokumentowania przestrzeni (fotogrametria, termowizja, pomiary 3D).
+GitHub to dla mnie:
 
-Nie zajmuję się „ładnymi slajdami”. Interesuje mnie to, co jest prawdziwe, spójne i nadaje się do przedstawienia przed sądem lub w raporcie technicznym.
-
----
-
-## Specjalizacje
-
-### Postępowanie karne
-- analiza uchybień proceduralnych (art. 147–155, 313–314, 399 §1, 404 §2 k.p.k.),  
-- dowody cyfrowe, integralność treści, rekonstrukcja przebiegu czynności,  
-- porównanie protokołów z nagraniami i wykrywanie rozbieżności,  
-- pisma procesowe (wnioski dowodowe, zażalenia, sprostowania protokołów).
-
-### Fonoskopia i analiza audio
-- diarizacja wielomówcowa (pyannote),  
-- transkrypcja (Whisper / OpenAI),  
-- analiza przerw, energii, formantów i anomalii nagrań,  
-- badania autentyczności nagrań (artefakty, clipping, synchroniczność odgłosów).
-
-### Inżynieria danych i narzędzia techniczne
-- Python (audio processing, automatyzacja, raportowanie),  
-- ffmpeg, sox, kalibracja i archiwizacja nagrań,  
-- GitHub jako repo dowodowe: struktury akt, wersjonowanie skanów, metadane,  
-- zaawansowane środowisko faktyczno-dowodowe.
-
-### Audyty techniczne i dokumentacyjne
-- pełna inwentaryzacja instalacji CO/CWU (Leica DISTO X6, FLIR C5, Samsung S24 Ultra),  
-- fotogrametria, laserowe wyznaczanie osi (Bosch GLL 3-80 C),  
-- raporty energetyczne i eksploatacyjne,  
-- dokumentacja PDF z pełną obsługą polskich znaków i poprawnym layoutem.
+- miejsce do **eksperymentowania** z narzędziami (Python, Whisper, pyannote, ffmpeg),
+- repozytorium **procesowych case studies** (np. sprawa II K 70/24),
+- przestrzeń, w której można zobaczyć, **jak łączyć prawo i technologię** w praktyce.
 
 ---
 
-## Obecne projekty
+## 🎓 GitHub Education – jak z tego korzystam?
 
-### **IIK_70_24 – Digital Evidence Repository**
-Repozytorium obejmujące:
-- mapę dowodów,  
-- nagrania M4A/OGA/WAV + diarization,  
-- skany akt (k. 1–150+),  
-- narzędzia do analizy integralności dowodów,  
-- wnioski procesowe i rekonstrukcje czynności.
+W ramach GitHub Education / Student Developer Pack:
 
-### **Fonoskopia – narzędzia**
-- pipeline diarization + transkrypcja + analiza sygnału,  
-- badanie ciągłości nagrań i artefaktów procesowych,  
-- skrypty do segmentacji zgodnej z przebiegiem rozprawy.
+- buduję **case study** łączące prawo, fonoskopię i data science,
+- tworzę **skrypty edukacyjne** pokazujące:
+  - jak technicznie analizować nagrania z rozpraw,
+  - jak weryfikować protokoły sądowe nagraniami,
+  - jak prowadzić „repozytorium akt” w GitHubie,
+- dokumentuję **pipeline’y**:
+  - od nagrania → przez diarizację → do raportu dla prawnika.
 
-### **Joliot-Curie 19A – audyt instalacji CO/CWU**
-- dokumentacja techniczna,  
-- analiza strat ciepła i błędów wykonawczych,  
-- raporty PDF/XLSX z automatyczną segmentacją tabel.
+Repozytoria traktuję jak otwarte notatki z nauki – tak, żeby ktoś inny mógł:
+
+1. sklonować projekt,  
+2. odpalić `README`,  
+3. odtworzyć wyniki krok po kroku.
 
 ---
 
-## Z czego korzystam
+## 🔍 Czego uczę się teraz?
 
-**Hardware**  
-- Dell Precision 7550 (CUDA),  
-- Samsung Galaxy S24 Ultra (fotogrametria, nagrania),  
-- Leica DISTO X6, FLIR C5, Bosch GLL 3-80 C,  
-- HP Color LaserJet Pro M252dw.
-
-**Software**  
-- Python 3.13, ffmpeg, Whisper, pyannote, JetBrains, GitHub Copilot,  
-- Audacity / Adobe Audition (analiza sygnału),  
-- Git LFS do archiwizacji dowodów.
+- zaawansowanej diarizacji i analizy sygnału (pyannote, formanty, energia, przerwy),
+- automatyzacji raportów procesowych (Python + szablony DOCX/PDF),
+- lepszego modelowania danych dowodowych (mapy dowodów, timeline’y, łańcuch dowodowy),
+- wykorzystania GitHub Actions do:
+  - aktualizacji statystyk,
+  - automatycznego generowania raportów z nowych nagrań.
 
 ---
 
-## Kontakt
+## 🧪 Wybrane projekty edukacyjne
 
-**E-mail:** michal@trojaczek.com  
-**GitHub:** github.com/michaltrojaczek  
-(Repozytoria prywatne udostępniam na życzenie w ramach współpracy projektowej.)
+### `IIK_70_24` – repozytorium dowodów cyfrowych
+- struktura katalogów jak „akta sprawy” (dochodzenie, sąd, metadane),
+- narzędzia do porównywania:
+  - protokołów z nagraniami,
+  - notatek urzędowych z rzeczywistą treścią rozmów,
+- materiały do nauki:
+  - jak dokumentować łańcuch dowodowy w repozytorium GitHub.
+
+### `fonoskopia-tools`
+- pipeline do:
+  - konwersji nagrań (ffmpeg),
+  - diarizacji (pyannote),
+  - transkrypcji (Whisper),
+- skrypty „krok po kroku”, opisane w README,
+- przykład tego, jak z narzędzia „AI” zrobić **powtarzalną procedurę badawczą**.
+
+### `joliot-curie-19a`
+- dokumentacja techniczna budynku wspólnoty mieszkaniowej,
+- pomiary (Leica DISTO X6, FLIR C5, Bosch GLL 3-80 C),
+- materiały do nauki:
+  - jak łączyć dane techniczne i prawne w jednym repozytorium.
 
 ---
 
-## Motto robocze
+## 🛠️ Stos technologiczny
 
-„Wszystko jest proste, dopóki nie trzeba tego udowodnić przed sądem.”
+**Języki i narzędzia**
 
+- Python (analiza danych, audio, automatyzacja),
+- ffmpeg, sox (przetwarzanie dźwięku),
+- Whisper, pyannote-audio,
+- Git, GitHub (w tym GitHub Actions, Git LFS).
+
+**Sprzęt**
+
+- Dell Precision 7550 (CUDA, przetwarzanie nagrań),
+- Samsung Galaxy S24 Ultra (nagrania, fotogrametria),
+- Leica DISTO X6, FLIR C5, Bosch GLL 3-80 C,
+- HP Color LaserJet Pro M252dw (raporty, dokumentacja).
+
+---
+
+## 🤝 Współpraca / dla kogo mogą być te repozytoria?
+
+- studenci prawa / kryminologii – którzy chcą zobaczyć, jak **naprawdę** wygląda praca na dowodach cyfrowych,
+- osoby techniczne – ciekawi, jak ich narzędzia są używane w kontekście prawnym,
+- wykładowcy – szukający **realnych case studies** do pokazania na zajęciach,
+- każdy, kto chce zobaczyć, jak GitHub może pełnić rolę:
+  - „akta sprawy 2.0”,
+  - laboratorium fonoskopii,
+  - pamiętnika analizy technicznej budynku.
+
+Jeśli chcesz wykorzystać któryś z projektów jako materiał dydaktyczny –  
+**napisz: michal@trojaczek.com**.
+
+---
+
+## 📈 Automatyczne statystyki
+
+Repozytoria korzystają z GitHub Actions do generowania:
+
+- wykresów aktywności,
+- statystyk języków,
+- podsumowań projektów.
+
+Przykładowe wykresy:
+
+![Commit activity](stats/activity.png)  
+![Languages](stats/languages.png)
+
+---
+
+> „Wszystko jest teorią, dopóki ktoś nie poprosi o dokumenty i metadane.”
