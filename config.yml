@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General questions (not issue-related)
+    url: https://github.com/truevektor/truevektor/discussions
+    about: For open-ended discussions and non-bug questions, please use Discussions.
