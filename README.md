@@ -5,9 +5,11 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Launchpad: Profile README
+# Hi, I'm Ziad Adel! 👋
+I'm a first-year student at Suez University, studying Computer Science and Mathematics. 
+Currently learning **C++** and **Python**.
 
-_Say hello to your community._
+
 
 
 <!-- 
